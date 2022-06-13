@@ -1,0 +1,247 @@
+.body{
+  font:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  background-color: #f6f7f2;
+}
+.titulo {
+ display: flex;  
+ justify-content: flex-end;
+ height: 70px;
+ align-items: center;
+ background-color:  #9dbf4e ;
+ font:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+ color:#1d3b54;
+}
+.boton:hover{
+  background-color: #6faae2;
+
+}
+.divEncabezado {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: white;
+  background-color:#444444;
+  width: 100%;
+  height: 50px;
+  border-color:black;
+  border-radius: 3px;
+  padding: 1px;
+  margin: 5px 5px 3px 1px;
+  font:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 15px;
+ color:BLACK;
+}
+
+.divMenu1 {
+  background-color:#444444;
+  width: 20%;
+  height: 30px;
+  padding: auto;
+  color: #513d31;
+  
+font-size: 20px;
+color:#cace44;
+ align-content: center; 
+  
+}
+.divMenu2 {
+  background-color: #444444;
+  width: 20%;
+  height: 30px;
+  font-size: 20px;
+color: #cace44;
+  
+}
+.divLogo {
+  background-color:#444444 ;
+  width: 20%;
+  height: 30px;
+  font-size: 20px;
+color: #cace44;
+}
+
+.divCuerpo1 {
+  display: flex;
+  width: 100%;
+  height: 180px;
+ color:rgb(71, 61, 61);
+ background-color:  #9dbf4e ;
+ background-color:   ;
+  border-color: black;
+  border-radius: 3px;
+  margin: 1px 5px 8px 1px;
+}
+
+.divizquierda {
+  
+  width: 30%;
+  height: 90%;
+  border-radius: 3px;
+  padding: 2px;
+  margin-right: 8px;
+  font-size: 22px;
+ 
+}
+.divcentro {
+  
+  width: 30%;
+  height: 90%;
+  border-radius: 3px;
+  padding: 2px;
+  margin-right: 8px;
+  font-size: 22px;
+ 
+}
+.divderecha {
+  
+  width: 20%;
+  height: 90%;
+  border-radius: 3px;
+  padding: 2px;
+  font-size: 22px;
+ 
+}
+.divCuerpo2 {
+  display: flex;
+  width: 100%;
+  height: 320px;
+  color: white;
+  border-color: black;
+  border-radius: 3px;
+  margin: 1px 1px 5px 1px;
+}
+.divizquierda2 {
+  background-color:   #9dbf4e ;
+  ;
+  width: 50%;
+  height: 120%;
+  border-radius: 3px;
+  padding: 2px;
+  margin-right: 8px;
+  
+}
+.divderecha2 {
+ background-color: #f6f7f2;
+  width: 33%;
+  height: 95%;
+  border-radius: 3px;
+  padding: 2px;
+  align-self: flex-end;
+  font-size: 25px;
+  color:  #1d3b54;
+}
+.divPie {
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 70%;
+  color: white;
+  background-color:  #796c47;
+  border-color: black;
+  border-radius: 3px;
+  margin: 1px 10px 3px 1px;
+}
+.Elemento {
+   
+  background-color: blue;
+  text-align: left;
+  padding: 5%;
+  border-radius: 3%;
+  height: 10%; 
+  margin-left: 0px;
+
+}
+
+
+body {
+    background-color: #a3978c;
+  }
+  h1 {
+    text-align: center;
+    font: size 30px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color:  #1d3b54  ;
+    
+  
+    
+  }
+  h2 {
+    text-align: center;
+    font-family: sans-serif;
+    color: #6faae2;
+    font: size 5px;
+    background-color: #bdb7ae;
+  }
+  
+  h3 {
+    text-align: center;
+    color: #7a714c;
+    font: size 25px;
+  }
+  
+  p {
+    text-align: left;
+    font-family: sans-serif;
+    font: size 18px;
+    color: #bd844c;
+  }
+  ul {
+    list-style-type: circle;
+    color:  #d1de48;
+    font: size 50px;
+    background-color: #444444;
+    text-align: center;
+    padding: 5%;
+    border-radius: 3%;
+    margin: auto;
+  }
+  li{
+    text-align: center;  
+  }
+  .contenedor1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    align-content: space-between;
+    width: 100%;
+    background-color: #d1de48;
+    text-align: center;
+    padding: 5%;
+    border-radius: 3%;
+    margin: auto;
+    font-size: 15px;
+    height: 10px;
+  }
+  .divclases{
+    width: 50%;
+  }
+   
+  .divcuerpo {
+    display: inline;
+    font-family: sans-serif;
+    color: #7a714c;
+    font: size 50px;
+    width: 20%;
+    background-color: #d1de48;
+    text-align: left;
+    padding: 5%;
+    border-radius: 3%;
+    margin: auto;
+  }
+  .divpie {
+    width: 100%;
+    height: 20px;
+    background-color: grey;
+    text-align: left;
+    padding: 5%;
+    border-radius: 3%;
+    margin: auto;
+  }
+  .imagen1{
+    width: 20%;
+    height: 30%;
+  }
+  
+  
